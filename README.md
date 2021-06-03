@@ -1,4 +1,4 @@
-# Student License
+# Education License
 
 Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
@@ -11,16 +11,16 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Item | - |
 | ---------------------------------- | --- |
 | Domains | 1 |
-| Team Size | 1 developer (Must be a STUDENT) |
+| Team Size | 1 developer |
 | Email Support < *support@appseed.us* > | 3 months |
 | [Discord](https://discord.gg/fZC6hup) Support - **24/7 LIVE Service** | 3 months |
 | Free Updates | 3 months |
 | --- | --- |
 | Product sale | **YES** |
 | Create single personal website/app | **YES** |
-| Create single website/app for client | **YES** |
 | Remove footer credits | **YES** |
 | --- | --- |
+| Create single website/app for client | **NO** |
 | Remove copyright mentions from source code | **NO** |
 | Create multiple personal websites/apps | **NO** |
 | Create multiple websites/apps for clients | **NO** |
